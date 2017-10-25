@@ -1,0 +1,46 @@
+Initialize engine version: 4.6.8f1 (583461196f73)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 22.21.13.8528]
+    Renderer: NVIDIA GeForce GTX 1050 Ti
+    Vendor:   NVIDIA
+    VRAM:     4018 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\asus\Downloads\2015-Patch\2015 Patch\PPrototypePatch1_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+UnloadTime: 0.428489 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 533.
+Total: 8.797354 ms (FindLiveObjects: 0.017504 ms CreateObjectMapping: 0.009846 ms MarkObjects: 0.058347 ms  DeleteObjects: 8.333491 ms)
+
+UnloadTime: 0.703817 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 8102.
+Total: 1.154552 ms (FindLiveObjects: 0.262199 ms CreateObjectMapping: 0.126176 ms MarkObjects: 0.344979 ms  DeleteObjects: 0.106484 ms)
+
+UnloadTime: 3.665321 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 1482.
+Total: 0.642917 ms (FindLiveObjects: 0.046313 ms CreateObjectMapping: 0.019692 ms MarkObjects: 0.127635 ms  DeleteObjects: 0.133834 ms)
+
